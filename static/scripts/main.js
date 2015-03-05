@@ -53,7 +53,7 @@ angular
   // config
   .config(function($routeProvider) {
     $routeProvider
-      .when('/pages/:pageName', {
+      .when('/pages/:pageName*', {
         controller: 'PageCtrl',
         template: '<div class="page-content"></div>',
         resolve: {
