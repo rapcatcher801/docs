@@ -252,6 +252,8 @@ Rebooting
 U-boot & Kernel System Flash Success...
 ```
 
+Once you have burned the new firmware with this method you can carry on from the [Check your dashboard step](/pages/installing/gettingStarted-Edison.md#check-your-resin-io-dashboard).
+
 ##### Using Windows
 
 **Before starting the flashing process, make sure you unplug the Edison from your computer.**
@@ -292,6 +294,8 @@ Flashing rootfs, (it can take up to 5 minutes... Please be patient)
 Rebooting
 U-boot & Kernel System Flash Success...
 ```
+
+Once you have burned the new firmware with this method you can carry on from the [Check your dashboard step](/pages/installing/gettingStarted-Edison.md#check-your-resin-io-dashboard).
 
 ##### Using Linux
 
