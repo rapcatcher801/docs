@@ -1,6 +1,6 @@
 Doxx = require('@resin/doxx')
 doxxConfig = require('../config/doxx')
 
-doxx = Doxx(doxxConfig)
-
-Doxx.navPP(doxx.navParse())
+Doxx(doxxConfig)
+.build (err) ->
+  throw err if err
