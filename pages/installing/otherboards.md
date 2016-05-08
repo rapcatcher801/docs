@@ -14,5 +14,7 @@ Here you will find links to Getting Started guides for all the boards supported 
 * [Boundary Devices Nitrogen6x](/installing/gettingStarted-Nitrogen6x)
 * [VIA VAB820](/installing/gettingStarted-VIA-VAB820)
 * [Technologic TS-4900](/installing/gettingStarted-TS4900)
-* [Adapteva parallella](/installing/gettingStarted-Parallella)
+* [Adapteva parallella](/installing/danielzerull@comcast
+
+-Parallella)
 * [Zynq ZC702](/installing/gettingStarted-Zynq-ZC702)
